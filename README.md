@@ -3,8 +3,6 @@ discuss
 
 The "mailing list"
 
-**Lead Maintainer**: [Fionn Kelleher](https://github.com/expr)
-
 This is a general discussion repository for projects under the [hapijs](https://github.com/hapijs) umbrella.
 
 ## Guidelines
